@@ -186,5 +186,7 @@ Sometimes there are misunderstandings and interactions go poorly. You are a volu
 ### Additional Resources
 
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
- 
-*   It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+ You can go to github.com to create an account.
+
+*   You can also help in expanding this section by contributing to our curriculum.
+
